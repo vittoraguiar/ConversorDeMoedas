@@ -1,0 +1,15 @@
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\ComprarDolar\ComprarDolar\bin\Debug\net6.0\ComprarDolar.exe
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\ComprarDolar\ComprarDolar\bin\Debug\net6.0\ComprarDolar.deps.json
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\ComprarDolar\ComprarDolar\bin\Debug\net6.0\ComprarDolar.runtimeconfig.json
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\ComprarDolar\ComprarDolar\bin\Debug\net6.0\ComprarDolar.dll
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\ComprarDolar\ComprarDolar\bin\Debug\net6.0\ComprarDolar.pdb
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\ComprarDolar\ComprarDolar\obj\Debug\net6.0\ComprarDolar.csproj.AssemblyReference.cache
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\ComprarDolar\ComprarDolar\obj\Debug\net6.0\ComprarDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\ComprarDolar\ComprarDolar\obj\Debug\net6.0\ComprarDolar.AssemblyInfoInputs.cache
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\ComprarDolar\ComprarDolar\obj\Debug\net6.0\ComprarDolar.AssemblyInfo.cs
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\ComprarDolar\ComprarDolar\obj\Debug\net6.0\ComprarDolar.csproj.CoreCompileInputs.cache
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\ComprarDolar\ComprarDolar\obj\Debug\net6.0\ComprarDolar.dll
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\ComprarDolar\ComprarDolar\obj\Debug\net6.0\refint\ComprarDolar.dll
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\ComprarDolar\ComprarDolar\obj\Debug\net6.0\ComprarDolar.pdb
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\ComprarDolar\ComprarDolar\obj\Debug\net6.0\ComprarDolar.genruntimeconfig.cache
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\ComprarDolar\ComprarDolar\obj\Debug\net6.0\ref\ComprarDolar.dll
